@@ -7,7 +7,7 @@ The goal is to provide actionable insights for HR and management teams to reduce
 ---
 
 ## Dataset
-- **Source:** [IBM HR Analytics Employee Attrition & Performance - Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-employee-attrition)
+- **Source:** [IBM HR Analytics Employee Attrition & Performance - Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 - **Description:** Contains anonymized HR data including employee demographics, job roles, performance metrics, and attrition labels.
 
 ---
